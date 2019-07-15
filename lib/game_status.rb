@@ -43,4 +43,4 @@ def full?(board)
   end
 end
 
-def 
+def draw?
