@@ -65,4 +65,5 @@ def winner(board)
     "O"
   else
     FALSE
+  end
 end
