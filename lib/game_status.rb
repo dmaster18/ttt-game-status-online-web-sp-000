@@ -59,3 +59,5 @@ def over?(board)
   else
     FALSE
 end
+
+def 
