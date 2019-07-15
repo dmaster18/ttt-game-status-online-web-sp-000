@@ -34,7 +34,7 @@ def won?(board)
 end
 
 def full?(board)
-  board.any? do |board_space|
+  board. do |board_space|
     if board_space == " " || board_space == nil
       FALSE
     else 
