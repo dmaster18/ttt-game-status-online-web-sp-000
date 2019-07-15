@@ -52,3 +52,5 @@ def draw?(board)
     FALSE
   end
 end
+
+def 
