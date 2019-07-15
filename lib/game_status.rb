@@ -38,7 +38,7 @@ def full?(board)
     if board_space == " " || board_space == nil
       FALSE
     else 
-      
+      TRUE
   end
   
 end
