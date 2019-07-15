@@ -63,4 +63,6 @@ def winner(board)
     "X"
   elseif won?(board)[0] = "O"
     "O"
+  else
+    FALSE
 end
