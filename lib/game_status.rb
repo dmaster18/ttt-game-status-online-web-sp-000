@@ -48,5 +48,6 @@ def draw?(board)
     TRUE
   elsif
   else
+  
   end
 end
