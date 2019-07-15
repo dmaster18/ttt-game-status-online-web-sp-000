@@ -60,4 +60,4 @@ def over?(board)
     FALSE
 end
 
-def winner
+def winner(board)
